@@ -4,7 +4,7 @@ import argparse
 
 # # hardcode these to ensure static ordering
 # known_characters = string.ascii_letters + string.digits + string.punctuation + ' \n\t'
-known_characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!#$%&'()*+,-./:;<=>?@[\]^_`{|}~ \t\n"
+known_characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!#$%&'\"()*+,-./:;<=>?@[\]^_`{|}~ \t\n"
 
 def new_key(length=30):
 
