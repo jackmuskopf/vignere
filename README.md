@@ -29,3 +29,7 @@ python vignere.py decrypt --text "q#Mo591Hum!Lbtk" --key eNPmRVQKiiStbngAEzNuUtY
 ```
 my cool message
 ```
+
+<br>
+
+See https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
